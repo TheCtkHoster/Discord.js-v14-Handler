@@ -14,6 +14,18 @@
 npm install
 ```
 
+##Setup
+
+Environment (important)
+   Rename `.env-example` to `.env` and fill the following blanks:
+
+```
+//.env
+TOKEN=your bot token here
+clientId=your bot client id here
+guildId=//(OPTIONAL) Put guildId here if you want to deploy slash commands to one guild.
+```
+
 ## Usage
 
 ```sh
