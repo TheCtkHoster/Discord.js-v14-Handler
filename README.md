@@ -22,10 +22,11 @@ npm run dev
 
 ## Author
 
-👤 **Async#4226**
+👤 **Async**
 
 * Website: https://github.com/TheCtkHoster
 * Github: [@TheCtkHoster](https://github.com/TheCtkHoster)
+* Discord account: Async#4226 (Contact for support!)
 
 ## Show your support
 
