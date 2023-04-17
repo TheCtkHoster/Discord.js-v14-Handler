@@ -14,7 +14,7 @@
 npm install
 ```
 
-##Setup
+## Setup
 
 Environment (important)
    Rename `.env-example` to `.env` and fill the following blanks:
