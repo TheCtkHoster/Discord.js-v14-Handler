@@ -4,7 +4,7 @@
   "description": "Discord.js v14 Handler",
   "main": "index.js",
   "scripts": {
-    "dev": "node deploy.js && node index.js --force"
+    "dev": "node deploy.js && node index.js"
   },
   "author": "",
   "license": "ISC",
